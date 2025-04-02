@@ -5,7 +5,3 @@
 - 📫 How to reach me: check links in my profile.
 - ⚡ Fun fact: I'm only thirteen but have created multiple games and have even coded a web browser.
 
-<!---
-Maxogravo/Maxogravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

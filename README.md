@@ -5,3 +5,4 @@
 - 📫 How to reach me: check links in my profile.
 - ⚡ Fun fact: I'm only thirteen but have created multiple games and have even coded a web browser.
 
+- 📝Projects I've worked on: A web browser, Pygame Games, Websites, My own Code Editor and also some Unreal Engine Projects

@@ -14,6 +14,8 @@
 
 🏆Achievements: YGD BAFTA award (awaiting response)
 
+--
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,apple,arduino,raspberrypi,unreal)](https://skillicons.dev)
 
 Languages I know:
@@ -34,3 +36,4 @@ What I want to Learn:
 - Java
 - Linux
 - Blender
+- how to actually code and not use AI

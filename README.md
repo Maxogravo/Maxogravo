@@ -16,7 +16,7 @@
 
 --
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,apple,arduino,raspberrypi,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,apple,arduino,vscode,raspberrypi,unreal)](https://skillicons.dev)
 
 Languages I know:
 - Python

@@ -36,5 +36,3 @@ What I want to Learn:
 - Java
 - Linux
 - Blender
-- how to actually code and not use AI
-- how to write hello print world without AI

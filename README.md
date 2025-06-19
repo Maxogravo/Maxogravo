@@ -12,8 +12,6 @@
 
 🧠Projects I'd like to work on: My Shopping Trolley Game, A Smart Watch and a Game Console
 
-🏆Achievements: YGD BAFTA award (awaiting response)
-
 -------–--------------------–---------
 -------–--------------------–---------
 

@@ -15,7 +15,7 @@
 -------–--------------------–---------
 -------–--------------------–---------
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,apple,arduino,vscode,raspberrypi,unreal,debian,logisim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,apple,arduino,vscode,raspberrypi,unreal,debian,c,cplusplus)](https://skillicons.dev)
 
 Languages I know:
 - Python

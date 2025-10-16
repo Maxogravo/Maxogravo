@@ -18,10 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,apple,arduino,vscode,raspberrypi,unreal,debian,cpp,asm)](https://skillicons.dev)
 
 Languages I know:
-- Python
-- HTML
-- CSS
-- Gravy 8 ASM
+- Python (Fluent)
+- C++ (Average)
 
 Things I Use:
 - Unreal
@@ -33,9 +31,7 @@ Things I Use:
 - logisim
 
 What I want to Learn:
-- C++
 - Java Script
 - Java
 - LFS
 - Arch and Gentoo
-- Blender

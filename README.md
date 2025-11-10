@@ -1,37 +1,16 @@
-👋 Hi, I’m @Maxogravo
+# 🤩 My Favourite Projects  
+- A Python Based Web Browser
+- A Custom Designed 8-Bit CPU
 
-👀 I’m interested in coding, Game Dev, art, design, computer science and computer architecture
+# ⚙️ What Am I Working On?
+- An Unreal Engine Game
+- Converting My CPU To A Simulator
 
-🌱 I’m currently learning computer architecture and the C family
-
-💞️ I’m looking to collaborate on nothing right now
-
-📫 How to reach me: check links in my profile.
-
-📝Projects I've worked on: A python web browser, Pygame Games, Websites, some Unreal Engine Projects and an 8-Bit CPU.
-
-🧠Projects I'd like to work on: Custom Programming Language, full ttl 32-bit computer
-
--------–--------------------–---------
--------–--------------------–---------
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,apple,arduino,vscode,raspberrypi,unreal,debian,cpp,asm)](https://skillicons.dev)
-
-Languages I know:
+# 🧠 What Languages Do I Know?
 - Python (Fluent)
-- C++ (Average)
+- C++ (Core Skills)
 
-Things I Use:
-- Unreal
-- VS Code
-- Arduino IDE
-- Raspberry Pi
-- Debian and PiOS
-- macOS
-- logisim
-
-What I want to Learn:
-- Java Script
-- Java
-- LFS
-- Arch and Gentoo
+# 🌱 What Would I Like To Work On?
+- My Own Programming Language
+- My Own Linux Distro (LFS)
+- A TTL GPU

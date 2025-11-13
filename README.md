@@ -4,7 +4,7 @@
 
 # ⚙️ What Am I Working On?
 - An Unreal Engine Game
-- Converting My CPU To A Simulator
+- Open sourced and documented 32 bit CPU
 
 # 🧠 What Languages Do I Know?
 - Python (Fluent)

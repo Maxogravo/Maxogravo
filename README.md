@@ -4,7 +4,7 @@
 
 # ⚙️ What Am I Working On?
 - An Unreal Engine Game
-- Open sourced and documented 32 bit CPU
+- Open sourced and documented 8 bit CPU
 
 # 🧠 What Languages Do I Know?
 - Python (Fluent)

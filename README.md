@@ -6,9 +6,10 @@
 - An Unreal Engine Game
 - Open sourced and documented 8 bit CPU
 
-# 🧠 What Languages Do I Know?
+# 🧠 What Are My Skills?
 - Python (Fluent)
 - C++ (Core Skills)
+- Unreal Engine (Intermediate)
 
 # 🌱 What Would I Like To Work On?
 - My Own Programming Language

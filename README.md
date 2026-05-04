@@ -1,10 +1,9 @@
 # 🤩 My Favourite Projects  
 - A Python Based Web Browser
-- A Custom Designed 8-Bit CPU
 
 # ⚙️ What Am I Working On?
 - An Unreal Engine Game
-- Open sourced and documented 8 bit CPU
+- Open sourced and documented CPU
 
 # 🧠 What Are My Skills?
 - Python (Fluent)

@@ -1,9 +1,10 @@
-# 🤩 My Favourite Projects  
+# 🤩 My Favourite Projects
+- An emulator built for a custom 16-bit CPU
 - A Python Based Web Browser
 
 # ⚙️ What Am I Working On?
-- An Unreal Engine Game
-- Open sourced and documented CPU
+- Open sourced and documented CPU emulator
+- A handwired keyboard
 
 # 🧠 What Are My Skills?
 - Python (Fluent)
@@ -12,5 +13,4 @@
 
 # 🌱 What Would I Like To Work On?
 - My Own Programming Language
-- My Own Linux Distro (LFS)
-- A TTL GPU
+- A 3d Game Engine (With custom physics engine)

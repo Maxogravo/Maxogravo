@@ -3,12 +3,14 @@
 - A Python Based Web Browser
 
 # ⚙️ What Am I Working On?
+- My emulator
 - A handwired keyboard
 
 # 🧠 What Are My Skills?
-- Python (Fluent)
-- C++ (Core Skills)
+- Python (Intermediate)
+- C++ (Intermediate)
 - Unreal Engine (Intermediate)
 
 # 🌱 What Would I Like To Work On?
 - A 3d Game Engine (With custom physics engine)
+- An OS for my cpu

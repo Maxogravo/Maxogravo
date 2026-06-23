@@ -14,3 +14,4 @@
 # 🌱 What Would I Like To Work On?
 - A 3d Game Engine (With custom physics engine)
 - An OS for my cpu
+- A rocket with self landing satellite

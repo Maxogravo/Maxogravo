@@ -10,7 +10,7 @@ Hi, I'm Max!
 # 🧠 What Are My Skills?
 - Python (Intermediate)
 - C++ (Intermediate)
-- Electronics (Beginner)
+- CAD (Onshape)
 
 # 🌱 What Would I Like To Work On?
 - A mini OS for my cpu 

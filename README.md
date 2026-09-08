@@ -5,7 +5,6 @@ Hi, I'm Max!
 - A Python Based Web Browser
 
 # ⚙️ What Am I Working On?
-- A rocket with a Mission Control dashboard
 
 # 🧠 What Are My Skills?
 - Python (Intermediate)

@@ -1,6 +1,6 @@
 # 🤩 My Favourite Projects
 - An emulator built for a custom 16-bit CPU with mini language
-- A Python Based Web Browser
+- A mini hacking tool made with raspberry pi pico
 
 # 🧠 What Are My Skills?
 - Python (Intermediate)
@@ -8,5 +8,4 @@
 - CAD (Onshape)
 
 # 🌱 What Would I Like To Work On?
-- A mini OS for my cpu 
-- A rocket
+- A robot
